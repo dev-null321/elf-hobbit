@@ -13,5 +13,6 @@ from torch.utils.data import DataLoader, TensorDataset
 from torch.optim.lr_scheduler import ReduceLROnPlateau
 from sklearn.metrics import confusion_matrix, accuracy_score, precision_score, recall_score, f1_score
 
-  ```bash
+After you have imported the necessary libraries, run the ELF Hobbit application by executing the following command in your terminal:
+
 python elf-hobbit.py
