@@ -1,7 +1,7 @@
 # ELF Hobbit: A Feed Forward Neural Network for Malware Detection
 
 
-ELF Hobbit is a cutting-edge Feed Forward Neural Network designed to identify and flag malicious ELF (Executable and Linkable Format) files in Linux and Unix systems. Trained on an extensive dataset of both malicious and benign files, ELF Hobbit offers unparalleled accuracy and efficiency in detecting potential security threats.
+ELF Hobbit is Feed Forward Neural Network designed to identify and flag malicious ELF (Executable and Linkable Format) files in Linux and Unix systems. Trained on an extensive dataset of both malicious and benign files, ELF Hobbit offers unparalleled accuracy and efficiency in detecting potential security threats. The dataset can be found here https://github.com/nimrodpar/Labeled-Elfs
 
 Key Features:
 Robust Detection: Capable of identifying a wide array of malware families, including notorious threats like Mirai, BASHLITE-1.0, BASHLITE-lizkebab, and Lightaidra-1.0.
