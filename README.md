@@ -13,8 +13,6 @@ Elf Hobbit's intelligence is derived from an extensive collection of ELF binarie
 Mirai Botnet: A powerful DDoS malware that has affected IoT devices worldwide. Learn more about Mirai
 BASHLITE: Also known as Gafgyt, this malware targets IoT devices to form botnets for large-scale DDoS attacks. Explore BASHLITE
 Lightaidra: A Trojan that targets routers and IoT devices, creating armies of infected devices. Details on Lightaidra
-Getting Started:
-For those interested in utilizing or contributing to ELF Hobbit, please refer to the documentation for setup instructions and usage guidelines.
 
 Contributing:
 Any contributions from the cybersecurity and open source communities are welcomed. 
