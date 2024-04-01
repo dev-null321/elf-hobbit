@@ -5,7 +5,9 @@ ELF Hobbit is a cutting-edge Feed Forward Neural Network designed to identify an
 
 Key Features:
 Robust Detection: Capable of identifying a wide array of malware families, including notorious threats like Mirai, BASHLITE-1.0, BASHLITE-lizkebab, and Lightaidra-1.0.
+
 Cross-Architecture Compatibility: Designed with versatility in mind, ELF Hobbit supports both ARM and x86/x64 architectures, ensuring broad applicability across different hardware platforms.
+
 Elf Hobbit's intelligence is derived from an extensive collection of ELF binaries, capturing a wide spectrum of malware characteristics. Among the most significant threats it can detect are:
 
 Mirai Botnet: A powerful DDoS malware that has affected IoT devices worldwide. Learn more about Mirai
